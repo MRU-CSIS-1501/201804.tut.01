@@ -82,6 +82,8 @@ Design an algorithm to ask a user for a sandwich composition, calculate the tota
 
 ### Algorithm 1: Better pairing
 
+Save this algorithm in a file called `algo-1.txt`.
+
 We followed an algorithm at the start of class to pair up. It wasn't the greatest. For example, it doesn't work that well if you have rows with more than 5 people in it...do you see why?
 
 Create an algorithm to create pairs that works for rows of any size > 0.
@@ -91,6 +93,8 @@ Don't forget to give your algorithm a test drive.
 ### Algorithm 2: House painting
 
 _(modified R1.15, p. 25 in the text)_
+
+Save this algorithm in a file called `algo-2.txt`.
 
 We are asked by a house painting company to create a program which estimates the paintable surface area of a house. They will use this to estimate how much paint they will need for a given job.
 
