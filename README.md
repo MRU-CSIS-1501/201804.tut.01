@@ -112,6 +112,6 @@ Put your algorithm file into a directory named `tut-01` and submit that director
 
 Going forward, you will always find the starting code for assignments in `/users/library/csis/comp1501/assignments`.
 
-Copy the `1.asg` directory there to your home directory.
+Copy the `1.asg` directory there to your home directory. If you can't remember what command to use, there's always the https://bit.ly/mru-1501-linux-ref
 
 Instructions for the assignment are here: https://github.com/MRU-CSIS-1501/201804.asg.01.documentation
