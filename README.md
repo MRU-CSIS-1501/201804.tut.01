@@ -1,6 +1,6 @@
 # Tut-01
 
-## What we're doing
+## WHAT WE'RE DOING
 
 - finding a partner
 - making sure you can get on INS
@@ -10,7 +10,7 @@
 
 ---
 
-## finding a partner
+## FINDING A PARTNER
 
 Follow this algorithm:
 
@@ -40,7 +40,7 @@ Sit down so that you are seated next to your partner - you decide how to do this
 
 Log in to your computer.
 
-## making sure you can get on INS
+## MAKING SURE YOU CAN GET ON INS
 
 We did this on Thursday, but in case you weren't there, please log into INS.
 
@@ -50,27 +50,61 @@ If both you and your partner don't know how to do this, ask another pair.
 
 If you have any issues logging in, call your instructor over.
 
-## creating 2 algorithms
+## CREATING 2 ALGORITHMS
 
-We'll do one together, and then you can create the next two with your partner.
+Remember from lecture on Monday that we talked about the process used to program:
 
-### Sandwich Calorie Calculator
+1. Understand the problem
+1. Develop an algorithm
+1. Test the algorithm with simple inputs
+1. Translate the algorithm into Java
+1. Compile and test (repeat until "done")
 
-```
-Suppose that the following caloric values are fixed:
-one slice of bread = 63
-one slice of cheese = 106
-one Tablespoon of mayonnaise = 49
-one pickle = 25
-Design an algorithm to ask a user for his lunch order, calculate the total calories in that lunch
-and then report the result.
-```
+We'll be doing parts 1 through 3 in this lab.
 
-## submitting your 2 algorithms
+We'll do one problem together, and then you can work on the next two with your partner.
+
+**For each algorithm, note any assumptions you have made.**
+
+### Demo: Sandwich Calorie Calculator
+
+We've been asked to create a program that calculates the total calories in a sandwich.
+
+Suppose we have the following caloric values:
+
+- one slice of bread = 63
+- one slice of cheese = 106
+- one Tablespoon of mayonnaise = 49
+- one pickle = 25
+- one slice of mystery meat = 43
+
+Design an algorithm to ask a user for a sandwich composition, calculate the total calories in that sandwich, and then report the result.
+
+### Algorithm 1: Better pairing
+
+We followed an algorithm at the start of class to pair up. It wasn't the greatest. For example, it doesn't work that well if you have rows with more than 5 people in it...do you see why?
+
+Create an algorithm to create pairs that works for rows of any size > 0.
+
+Don't forget to give your algorithm a test drive.
+
+### Algorithm 2: House painting
+
+_(modified R1.15, p. 25 in the text)_
+
+We are asked by a house painting company to create a program which estimates the paintable surface area of a house. They will use this to estimate how much paint they will need for a given job.
+
+Decide what inputs are necessary.
+
+You will need to make some assumptions to make this a manageable task; write these assumptions down with your solution.
+
+Don't forget to give your algorithm a test drive.
+
+## SUBMITTING YOUR 2 ALGORITHMS
 
 Put your algorithm file into a directory named `tut-01` and submit that directory via the `submit` command.
 
-## getting your first assignment
+## GETTING YOUR FIRST ASSIGNMENT
 
 Going forward, you will always find the starting code for assignments in `/users/library/csis/comp1501/assignments`.
 
