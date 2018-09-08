@@ -12,7 +12,7 @@
 
 ## FINDING A PARTNER
 
-Follow this algorithm:
+Let's follow this algorithm together:
 
 ```
 If there is someone to your right
@@ -58,7 +58,7 @@ Remember from lecture on Monday that we talked about the process used to program
 1. Develop an algorithm
 1. Test the algorithm with simple inputs
 1. Translate the algorithm into Java
-1. Compile and test (repeat until "done")
+1. Compile and test (repeat until "done", or "given up all hope")
 
 We'll be doing parts 1 through 3 in this lab.
 
@@ -68,7 +68,7 @@ We'll do one problem together, and then you can work on the next two with your p
 
 ### Demo: Sandwich Calorie Calculator
 
-We've been asked to create a program that calculates the total calories in a sandwich.
+We've been asked to create a program that calculates the total calories in a sandwich. Because weight.
 
 Suppose we have the following caloric values:
 
@@ -82,11 +82,11 @@ Design an algorithm to ask a user for a sandwich composition, calculate the tota
 
 ### Algorithm 1: Better pairing
 
-Save this algorithm in a file called `algo-1.txt`.
+Save this algorithm in a file in your home directory on INS called `algo-1.txt`.
 
 We followed an algorithm at the start of class to pair up. It wasn't the greatest. For example, it doesn't work that well if you have rows with more than 5 people in it...do you see why?
 
-Create an algorithm to create pairs that works for rows of any size > 0.
+Create an algorithm to create pairs that works for rows of any size > 0. You don't have to do the pointing thing - there are **many** ways to solve this problem, so try something different!
 
 Don't forget to give your algorithm a test drive.
 
@@ -108,10 +108,12 @@ Don't forget to give your algorithm a test drive.
 
 Put your algorithm file into a directory named `tut-01` and submit that directory via the `submit` command.
 
+When asked for the assignment number, use `1`.
+
 ## GETTING YOUR FIRST ASSIGNMENT
 
 Going forward, you will always find the starting code for assignments in `/users/library/csis/comp1501/assignments`.
 
-Copy the `1.asg` directory there to your home directory. If you can't remember what command to use, there's always the https://bit.ly/mru-1501-linux-ref
+Copy the `1.asg` directory there to your home directory. If you can't remember what command to use, there's always the reference at  https://bit.ly/mru-1501-linux-ref
 
 Instructions for the assignment are here: https://github.com/MRU-CSIS-1501/201804.asg.01.documentation
